@@ -62,12 +62,12 @@
 
 - React Hooks just a normal javascript function
 
-# Most Important Hooks ❤️❤️❤️❤️❤️
+# Most Important Hooks ❤️
 
 - useState()
 - useEffect()
 
-# useState ❤️❤️❤️❤️❤️
+# useState ❤️
 
 - import {useState} from "react";
 - useState create a state of the component
@@ -85,13 +85,13 @@
 
 - [When ever a state variable update react will Rerender the component this is called Render ]
 
-# lets talk about virtual Dom and Diff. Algorithm ❤️❤️❤️❤️
+# lets talk about virtual Dom and Diff. Algorithm ❤️
 
 - React use Reconciliation Algorithm (React fiber)
 
-# virtual dom = component treats as an object known as React virtual dom❤️❤️❤️❤️❤️❤️
+# virtual dom = component treats as an object known as React virtual dom❤️
 
-# Diff. Algorithm ❤️❤️❤️❤️❤️ 
+# Diff. Algorithm ❤️
  
 - finds out the different between two virtual dom
 - React find differnce between two virtual dom and react automagically update the actual dom
@@ -100,15 +100,15 @@
 
 - the reconciliation algo react uses to diff one tree with another tree to determine which parts need to changed
 
-# React Fiber ❤️❤️❤️❤️❤️
+# React Fiber ❤️
 
 - fiber is the new reconciliation engine in react 16 its main goal enable incremental rendering of the virtual dom(new Reconciliation algorithm is known as react fiber).
 
-# monolithic Architechture ❤️❤️❤️
+# monolithic Architechture ❤️
 
 - monolithic architecture is built as one large system and is usually one code base;
 
-# Microservices Architechture ❤️❤️❤️
+# Microservices Architechture ❤️
 
 - microservices architecture is built as small independent module based on business functionality ;
 
