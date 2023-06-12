@@ -79,7 +79,7 @@
 
 # Normal Js Variable ❤️
 
-- let listOfitem = [];
+- let listOfitem = [ ];
 
 # Render ❤️❤️❤️❤️❤️
 
